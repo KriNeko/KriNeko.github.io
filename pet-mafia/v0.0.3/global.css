@@ -11,6 +11,11 @@
 .jc_c { justify-content: center; }
 .jc_e { justify-content: flex-end; }
 
+.fb0_fg1 {
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
 .cur_p {
 	cursor: pointer;
 }
