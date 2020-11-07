@@ -1,0 +1,33 @@
+.fl {
+	display: flex;
+}
+.fl_dc {
+	display: flex;
+	flex-direction: column;
+}
+.ai_c {
+	align-items: center;
+}
+.jc_c { justify-content: center; }
+.jc_e { justify-content: flex-end; }
+
+.cur_p {
+	cursor: pointer;
+}
+.user_s_n {
+	user-select: none;
+}
+.w100 { width : 100%; max-width: 100%; }
+.h100 { height: 100%; max-height: 100%; }
+
+.fl_g100 { flex-grow: 1000000; }
+
+.pos_a { position: absolute; }
+.pos_r { position: relative; }
+
+.obb_n {
+		
+    outline: none;
+    border: none;
+    background: none;
+}
